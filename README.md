@@ -63,7 +63,7 @@ F1 Score : 86%
 Model performance was measured on a held-out test set from CASIA v2.0.
 
 ## 👨‍💻 Contributors
-- Abhigyan Srivastava
+- Vishwesh Patidar
 - Yuvika Yadav
 
 ## 🧭 Future Work
